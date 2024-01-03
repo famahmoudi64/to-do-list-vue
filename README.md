@@ -17,8 +17,10 @@ To run this application locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/famahmoudi64/to-do-list-vue.git`
 2. Navigate to the project directory: `cd to-do-list-vue`
 3. Install dependencies: npm install
-4. Run the development server: npm run serve
-5. Open your browser and visit http://localhost:8080
+4. Install Vue CLI globally (if not installed): npm install -g @vue/cli
+5. Install Vuex: npm install vuex
+6. Run the development server: npm run serve
+7. Open your browser and visit http://localhost:8080
 
 ## Technologies Used
 
