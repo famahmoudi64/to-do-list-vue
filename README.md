@@ -11,6 +11,7 @@ This is a simple Todo List application built with Vue.js, utilizing the Options 
 - Responsive design for seamless user experience.
 
 ## Getting Started
+Before you begin, ensure that you have Node.js installed on your machine. If not, you can download and install it from https://nodejs.org/.
 
 To run this application locally, follow these steps:
 
